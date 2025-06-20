@@ -1,0 +1,23 @@
+.active{
+    fill:red;
+}
+
+#countryCard{
+    text-align: right ;
+}
+
+#mapCol {
+    display: flex;
+}
+
+#infoCol {
+    display: flex; 
+    background-color: beige ;
+    float: right;
+    border-style: double;
+    border-width: 10px;
+    border-color: rgb(145, 145, 18);
+    padding: 10px
+    
+
+}
